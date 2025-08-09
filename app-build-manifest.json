@@ -1,0 +1,88 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/app/_not-found-56cb709f2a1392e2.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/css/aa6a0be15b618162.css",
+      "static/chunks/app/layout-26508de1e4c24dab.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/chunks/app/page-6b40b7ae140f7cd4.js"
+    ],
+    "/departments/gynecology/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/chunks/app/departments/gynecology/page-3d587ab853b57913.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/app/about/page-765e344e7ab3e859.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/app/contact/page-03fbce60d8f0b5c9.js"
+    ],
+    "/departments/cardiology/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/chunks/app/departments/cardiology/page-6a876f35f49368f8.js"
+    ],
+    "/departments/obstetrics/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/chunks/app/departments/obstetrics/page-a3702e0c1ff0cab9.js"
+    ],
+    "/gallery/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/app/gallery/page-0a45886f47a94fe2.js"
+    ],
+    "/departments/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/326-15b616076d4f29c2.js",
+      "static/chunks/app/departments/page-c7e8f0c5293c4d72.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-5083b35e6621ada6.js",
+      "static/chunks/fd9d1056-36bfbfa023b14e9a.js",
+      "static/chunks/472-d0c16b7057b1e703.js",
+      "static/chunks/main-app-2b304892dc96be94.js",
+      "static/chunks/app/services/page-6b68439abf62fb0d.js"
+    ]
+  }
+}
